@@ -3,7 +3,6 @@ var trumpList = new Array();
 var check = "";
 var srcList = new Array();
 
-
 $(document).bind('DOMSubtreeModified', findTrump());
 
 function findTrump(){
